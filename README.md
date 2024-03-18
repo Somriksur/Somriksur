@@ -20,6 +20,7 @@
 - 📫 How to reach me **somriksur@gmail.com**
 
 - ⚡ Fun fact **"You may not think I'm funny, but trust me, I'm hilarious. If you know, you know. 😎"**
+- ⚠️ something is suspecious about Android application ? contact me !💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

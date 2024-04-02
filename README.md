@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm SOMRIK SUR</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-90deg-right" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M14.854 4.854a.5.5 0 0 0 0-.708l-4-4a.5.5 0 0 0-.708.708L13.293 4H3.5A2.5 2.5 0 0 0 1 6.5v8a.5.5 0 0 0 1 0v-8A1.5 1.5 0 0 1 3.5 5h9.793l-3.147 3.146a.5.5 0 0 0 .708.708z"/>
+</svg>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somriksur&label=Profile%20views&color=0e75b6&style=flat" alt="somriksur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somriksur" alt="somriksur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/somriksur" target="blank"><img src="https://img.shields.io/twitter/follow/somriksur?logo=twitter&style=for-the-badge" alt="somriksur" /></a> </p>
 
-- 🔭 I’m currently working on **Advance To-Do List**
+- 🔭 <i class="bi bi-arrow-90deg-right"></i> I’m currently working on **Advance To-Do List**
 
 - 🌱 I’m currently learning **Java Spring Boot,MySql,Firebase Etc**
 

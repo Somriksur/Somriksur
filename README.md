@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somriksur" alt="somriksur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/somriksur" target="blank"><img src="https://img.shields.io/twitter/follow/somriksur?logo=twitter&style=for-the-badge" alt="somriksur" /></a> </p>
+<img align="right" alt="Coding" width="350" height="250" src="coding.gif">
 
 - 🔭 I’m currently working on **Canada Live Project**
 
@@ -49,6 +50,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somriksur&show_icons=true&locale=en" alt="somriksur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somriksur&" alt="somriksur" /></p>
+
+
 
 <p align="center">
   <img src="https://github.com/Sakshamlamba109/Sakshamlamba109/raw/output/github-contribution-grid-snake.svg"

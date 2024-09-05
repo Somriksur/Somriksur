@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somriksur" alt="somriksur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/somriksur" target="blank"><img src="https://img.shields.io/twitter/follow/somriksur?logo=twitter&style=for-the-badge" alt="somriksur" /></a> </p>
-<img align="right" alt="Coding" width="350" height="250" src="coding.gif">
+<img align="right" alt="Coding" width="300" height="200" src="coding.gif">
 
 - 🔭 I’m currently working on **Canada Live Project**
 

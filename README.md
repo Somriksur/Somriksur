@@ -11,7 +11,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somriksur" alt="somriksur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/somriksur" target="blank"><img src="https://img.shields.io/twitter/follow/somriksur?logo=twitter&style=for-the-badge" alt="somriksur" /></a> </p>
-<img align="right" alt="Coding" width="300" height="200" src="coding.gif">
+<img src="CoddingGif.webp" alt="MasterHead" height="300" width="300" align="right">
+
 
 - 🔭 I’m currently working on **Canada Live Project**
 
@@ -25,9 +26,9 @@
 
 - 📫 How to reach me **somriksur@gmail.com**
 
-- Our company Website <a href="Webdesert">
-
 - ⚡ Fun fact **"You may not think I'm funny, but trust me, I'm hilarious. If you know, you know. 😎"**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://res.cloudinary.com/dix7cioaw/image/upload/v1727244406/newgithub_ruzdhn.gif"
+<h1 align="center">Hi <img src="https://tenor.com/en-GB/view/waving-hello-gif-11328340"
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Somrik Sur</h1>

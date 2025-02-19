@@ -2,7 +2,9 @@
          alt="Waving hand animated gif"
          height="85"
          width="85" />, I'm Somrik Sur</h1>
-<h3 align="center">A passionate Software developer from India.Always exploring and learning new technologies. ❤️</h3>
+<h3 align="center">computer science engineering student at adamas university under graduate 🎓<br><br>and a APP Developer since 2023 and curently Learning WebDev 🌐<br><br> my hobby is knowing new technologies and researching on them 📖<br><br> Visit My Company Website <a href="https://webdesert.in" style="font-weight:700;">webdesert.in</a><br><br></h3>
+
+•⁠  ⁠🌱 I’m currently learning *computer science Engineering At Adamas University*
 
 <img src="https://res.cloudinary.com/dix7cioaw/image/upload/v1727244406/newgithub_ruzdhn.gif" style="background-size:cover;">
 
@@ -25,6 +27,12 @@
 - 💬 Ask me about **Java,C++,C,XML,Android Developent,Android Studio,Android SDK,API Call,Database Link,Autodesk Tinkercad,DSA in Java,Version Control,Html,Css,JavaScript,About Indian Cars**
 
 - 📫 How to reach me **somriksur@gmail.com**
+
+- •⁠👨‍💻 I'm Co-Founder And Managing Diretor Of [webdesert.in](https://webdesert.in)
+  
+- •⁠  ⁠📄 Know about my experiences [https://www.linkedin.com/in/somrik-sur-785831227/])
+
+- My Codding Experiences [https://leetcode.com/u/SomrikSur/]
 
 - ⚡ Fun fact **"You may not think I'm funny, but trust me, I'm hilarious. If you know, you know. 😎"**
 

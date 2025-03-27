@@ -1,3 +1,6 @@
+
+<img src="https://res.cloudinary.com/dix7cioaw/image/upload/v1727244406/newgithub_ruzdhn.gif" style="background-size:cover;">
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
          alt="Waving hand animated gif"
          height="85"
@@ -6,7 +9,6 @@
 
 •⁠  ⁠🌱 I’m currently learning *computer science Engineering At Adamas University*
 
-<img src="https://res.cloudinary.com/dix7cioaw/image/upload/v1727244406/newgithub_ruzdhn.gif" style="background-size:cover;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somriksur&label=Profile%20views&color=0e75b6&style=flat" alt="somriksur" /> </p>
 

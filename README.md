@@ -31,6 +31,8 @@
 - 📫 How to reach me **somriksur@gmail.com**
 
 - •⁠👨‍💻 I'm Co-Founder And Managing Diretor Of [webdesert.in](https://webdesert.in)
+
+- •⁠👨‍💻 I'm Currenty Completed The Katsi Canada Internship ( https://ofac.aucseapp.in/OFAC/OFAC_Prototype_1/ )
   
 - •⁠  ⁠📄 Know about my experiences [https://www.linkedin.com/in/somrik-sur-785831227/])
 

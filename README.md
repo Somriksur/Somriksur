@@ -34,9 +34,9 @@
 
 - •⁠👨‍💻 I'm Currenty Completed The Katsi Canada Internship ( https://ofac.aucseapp.in/OFAC/OFAC_Prototype_1/ )
 
-- •⁠  ⁠📄 My Another Project ( https://sundarbantourexpert.com/ )
+- •⁠👨‍💻 My Another Project For SundarbanTouringEgency ( https://sundarbantourexpert.com/ )
   
-- •⁠  ⁠📄 Know about my experiences [https://www.linkedin.com/in/somrik-sur-785831227/])
+- •⁠⁠📄 Know about my experiences [https://www.linkedin.com/in/somrik-sur-785831227/])
 
 - My Codding Experiences [https://leetcode.com/u/SomrikSur/]
 
